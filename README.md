@@ -1,2 +1,3 @@
-# my-portfolio
-This is my portfolio
+# Jay Wilson Jr's Portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS.
